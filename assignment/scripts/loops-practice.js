@@ -80,6 +80,6 @@ console.log('count backwards from 10 to 5');
 let index4 = 10;
 let max4 = 4;
     while(index4 > max4){
-      console.log('count backwards using while', [index4]);
+      console.log('count backwards using while', index4);
       index4--;
     }
